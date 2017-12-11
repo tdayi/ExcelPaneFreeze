@@ -1,0 +1,7 @@
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\bin\Debug\ExcelFreeze.exe.config
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\bin\Debug\ExcelFreeze.exe
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\bin\Debug\ExcelFreeze.pdb
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\obj\Debug\ExcelFreeze.csprojResolveAssemblyReference.cache
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\obj\Debug\ExcelFreeze.csproj.CoreCompileInputs.cache
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\obj\Debug\ExcelFreeze.exe
+C:\Users\tufan.dayi\Desktop\ExcelFreeze\ExcelFreeze\obj\Debug\ExcelFreeze.pdb
